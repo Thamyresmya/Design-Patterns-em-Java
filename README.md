@@ -1,8 +1,8 @@
-# Projeto Loja Estudo sobre Design Patterns
+# Projeto Loja para estudo sobre Design Patterns
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Projeto Loja**
+| :sparkles: Nome        | **Projeto Loja utilizando Design Patterns**
 | :label: Tecnologias    | Java, Design Patterns |
 | :rocket: URL           | https://github.com/Thamyresmya/Design-Patterns-em-Java
 
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Estudo sobre Design Patterns em Java. Como não repita código com Template Method.
+Estudo sobre Design Patterns em Java. Como não repitir código com Template Method.
 A importância de estudar os padrões de projeto. Resolver problemas de muito ifs usando Strategy. Criar diferentes ações com Observer. 
 
 <br>
